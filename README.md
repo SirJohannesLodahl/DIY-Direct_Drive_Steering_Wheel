@@ -97,7 +97,7 @@ If things don't work:
 * Re-check all power and ground connections
 * Look at serial logs from FFbeast / ESP32
 * Test each subsystem (motor, rim, buttons) separately
-* Open an [Issue](https://github.com/...) or check the [Discussion](#)
+* Open an [Issue](https://github.com/SirJohannesLodahl/DIY-Direct_Drive_Steering_Wheel/issues) or check the [Discussion](https://github.com/SirJohannesLodahl/DIY-Direct_Drive_Steering_Wheel/discussions)
 
 ---
 
