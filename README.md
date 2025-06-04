@@ -20,8 +20,11 @@ Feel free to reach out!
 This project is meant to be as open and educational as possible. If you’re working on a similar setup, struggling with FFbeast configuration, or trying to build your own wireless button system – feel free to contact me! I’m happy to share what I’ve learned and would love to hear about your builds as well.
 
 You can open an issue, start a discussion, or reach out directly via 
+
 Instagram [@johannes.ldhl](https://www.instagram.com/johannes.ldhl/#)
+
 Youtube [@Johannes Lodahl](https://www.youtube.com/@johanneslodahl7738)
-Discord @sirjolo_6090 // 284753546488971264
+
+Discord @sirjolo_6090
 
 Let’s build better wheels – together.
